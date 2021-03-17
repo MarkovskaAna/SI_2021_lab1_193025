@@ -3,4 +3,5 @@ Srce
 Naocari
 Lenovo
 Telefon
+Denes
 
